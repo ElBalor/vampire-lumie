@@ -1,0 +1,10 @@
+# Keep only the Vampire Lumie artifacts — everything else stays local.
+/*
+!/generate_5k_dataset.py
+!/generate_5k.bat
+!/unified_lumie_sft_50k.py
+!/vampire_lumie_train_5k.jsonl
+!/vampire_lumie_eval.jsonl
+!/README.md
+!/LICENSE
+!/.gitignore
